@@ -7,10 +7,6 @@
 
 An intelligent platform that forecasts crop demand using market trends and seasonal data to guide farmers on what to grow, when to sell, and where to distribute. Built specifically for Indian farmers with comprehensive multi-language support.
 
-## 🚀 Live Demo
-
-[View Live Demo](https://your-demo-link.com) | [Documentation](https://your-docs-link.com)
-
 ## ✨ Key Features
 
 ### 🤖 AI-Powered Intelligence
