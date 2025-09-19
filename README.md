@@ -50,7 +50,7 @@ An intelligent platform that forecasts crop demand using market trends and seaso
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ai-crop-forecasting-platform.git
+   git clone https://github.com/shreedivya19/ai-crop-forecasting-platform.git
    cd ai-crop-forecasting-platform
    ```
 
